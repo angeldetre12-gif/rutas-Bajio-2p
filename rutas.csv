@@ -1,0 +1,4 @@
+ruta_id,origen,destino,costo_base
+R-001,León,Silao,150.0
+R-002,León,Guanajuato,200.0
+R-003,Silao,Irapuato,180.0

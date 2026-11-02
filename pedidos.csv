@@ -1,0 +1,4 @@
+pedido_id,cliente_id,ruta_id,cantidad,estado
+P-001,C-001,R-001,1,registrado
+P-002,C-002,R-002,2,validado
+P-003,C-001,R-003,1,en_transito
